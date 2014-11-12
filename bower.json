@@ -1,0 +1,20 @@
+{
+  "name": "tweetSet",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "~1.3.0",
+    "angular-route": "~1.3.0",
+    "angular-bootstrap": "~0.11.2",
+    "json3": "~3.2.4",
+    "jquery": "~2.1.1",
+    "bootstrap-sass": "~2.3.1",
+    "es5-shim": "~2.0.8",
+    "angular-resource": "~1.3.0",
+    "leaflet": "0.7.x",
+    "angular-leaflet-directive": "*"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.3.0",
+    "angular-scenario": "~1.3.0"	
+  }
+}

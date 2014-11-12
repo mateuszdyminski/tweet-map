@@ -1,0 +1,19 @@
+# Bower Deps
+app/bower_components
+
+# Go Deps
+src/code.google.com
+src/github.com
+
+# Go build artefacts
+bin/
+
+# Idea IDE
+.idea
+**/*.iml
+
+# Vagrant stuff
+.vagrant
+
+# Git 
+*.orig
